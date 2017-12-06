@@ -13,7 +13,7 @@ require "form.php";
 <html lang="fr">
     <head>
         <meta charset="utf-8">
-        <title>PHP INITIATION</title>
+        <title>Blog</title>
         <link href="assets/font/font-awesome-4.7.0/css/font-awesome.min.css">
         <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Open+Sans:300" rel="stylesheet">
         <link rel="stylesheet" href="assets/styles.css">
